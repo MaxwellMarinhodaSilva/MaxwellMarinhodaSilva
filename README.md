@@ -69,11 +69,3 @@ Profissional de Tecnologia da Informação com mais de 12 anos de experiência e
 * Python (Alfahelix) | Shell Script (Udemy)
 * SQL Essential (LinkedIn) | Fundamentos em Linux (WB)
 
----
-
-### 📊 Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMarinhodaSilva&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMarinhodaSilva&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens Principais" />
-</div>
