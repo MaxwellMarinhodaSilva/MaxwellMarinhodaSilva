@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/maxwell-m-s">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[maxwellmarinho@hotmail.com](mailto:maxwellmarinho@hotmail.com)">
+  <a href="mailto:maxwellmarinho@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -47,63 +47,63 @@ Atuo de forma integrada com equipes técnicas, usuários e fornecedores, buscand
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 🖥️ Operating Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
 </p>
 
 ### 🌐 Networking & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLAN-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DHCP-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/VLAN-00599C?style=for-the-badge" alt="VLAN"/>
+  <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge" alt="DNS"/>
+  <img src="https://img.shields.io/badge/DHCP-4285F4?style=for-the-badge" alt="DHCP"/>
 </p>
 
 ### 📊 Monitoring & Observability
 
 <p>
-  <img src="https://img.shields.io/badge/Zabbix-F11B22?style=for-the-badge&logo=zabbix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zabbix-F11B22?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
 ### 🎫 ITSM & Service Management
 
 <p>
-  <img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ITSM-Management-6B7280?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Service Management"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+  <img src="https://img.shields.io/badge/ITSM-Management-6B7280?style=for-the-badge" alt="ITSM"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </p>
 
 ### 🐍 Automation & Scripting
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
 </p>
 
 ### ☕ Em estudos
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 ---
 
-## 🚀 O que você encontrará neste GitHub
+# 🚀 O que você encontrará neste GitHub
 
 Este perfil reúne projetos e estudos voltados principalmente para **automação, infraestrutura, suporte técnico, administração de sistemas, bancos de dados, monitoramento, desenvolvimento em Java e ferramentas para operações de TI**.
 
@@ -114,20 +114,20 @@ Este perfil reúne projetos e estudos voltados principalmente para **automação
 │                       IT OPERATIONS                         │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  🖥️ Technical Support       ⚙️ Infrastructure              │
-│  🎫 ITSM / Service Desk     📊 Monitoring                  │
-│  🐧 Linux                   🪟 Windows Server              │
-│  🌐 Networking              🗄️ Databases                   │
-│  🐍 Python Automation       ☕ Java Studies                │
-│  💻 Shell Scripting         🔍 Troubleshooting             │
-│  📝 Technical Documentation  🔐 Cybersecurity              │
+│  🖥️ Technical Support         ⚙️ Infrastructure            │
+│  🎫 ITSM / Service Desk       📊 Monitoring                │
+│  🐧 Linux                     🪟 Windows Server            │
+│  🌐 Networking                🗄️ Databases                 │
+│  🐍 Python Automation         ☕ Java Studies              │
+│  💻 Shell Scripting           🔍 Troubleshooting           │
+│  📝 Technical Documentation   🔐 Cybersecurity             │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📌 Projetos em destaque
+# 📌 Projetos em destaque
 
 > 🚧 Em constante evolução — novos projetos, estudos e automações serão adicionados.
 
@@ -171,7 +171,7 @@ Estudos e projetos relacionados a monitoramento de infraestrutura, disponibilida
 
 ---
 
-## 🧠 Competências técnicas
+# 🧠 Competências técnicas
 
 ```yaml
 IT_Operations:
@@ -223,9 +223,9 @@ Development:
 
 ---
 
-## 💼 Experiência profissional
+# 💼 Experiência profissional
 
-### 🏢 Transaction Network Serviços de Tecnologia do Brasil LTDA
+## 🏢 Transaction Network Serviços de Tecnologia do Brasil LTDA
 
 **Suporte Técnico Pleno — N2/N3**
 `Jul 2022 → Jul 2025`
@@ -241,7 +241,7 @@ Atuação em suporte técnico e operações de TI, com foco na resolução de in
 
 ---
 
-### 🏢 Rede Menor Preço Supermercados LTDA
+## 🏢 Rede Menor Preço Supermercados LTDA
 
 **Técnico de Informática**
 `Jun 2015 → Out 2019`
@@ -255,7 +255,7 @@ Atuação em suporte técnico e operações de TI, com foco na resolução de in
 
 ---
 
-### 🏢 Qualitech Informática
+## 🏢 Qualitech Informática
 
 **Vendedor Técnico**
 `Mai 2014 → Mai 2015`
@@ -264,7 +264,7 @@ Atuação comercial e técnica na venda de equipamentos e soluções de Tecnolog
 
 ---
 
-### 🏢 Superbox Brasil Supermercados
+## 🏢 Superbox Brasil Supermercados
 
 **Gerente Comercial | T.I.**
 `Mai 2010 → Mar 2014`
@@ -278,7 +278,7 @@ Atuação comercial e técnica na venda de equipamentos e soluções de Tecnolog
 
 ---
 
-### 🏢 Carrefour Comércio e Indústria LTDA
+## 🏢 Carrefour Comércio e Indústria LTDA
 
 **Caixa | Administrativo | T.I.**
 `Mai 2005 → Jan 2009`
@@ -287,7 +287,7 @@ Atuação nas áreas operacional, administrativa e de Tecnologia da Informação
 
 ---
 
-## 🎓 Formação
+# 🎓 Formação
 
 ### 🎓 Bacharelado em Ciência da Computação
 
@@ -296,7 +296,7 @@ Atuação nas áreas operacional, administrativa e de Tecnologia da Informação
 
 ---
 
-## 🏅 Certificações & Formação Complementar
+# 🏅 Certificações & Formação Complementar
 
 | Certificação / Curso                                 | Instituição       |       Ano |
 | ---------------------------------------------------- | ----------------- | --------: |
@@ -311,17 +311,9 @@ Atuação nas áreas operacional, administrativa e de Tecnologia da Informação
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/MaxwellMarinhodaSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxwellMarinhodaSilva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-</a>
-
-<a href="https://github.com/MaxwellMarinhodaSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMarinhodaSilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Principais linguagens"/>
-</a>
 
 <br/>
 
@@ -333,7 +325,7 @@ Atuação nas áreas operacional, administrativa e de Tecnologia da Informação
 
 ---
 
-## 📈 Atualmente
+# 📈 Atualmente
 
 Meu foco é continuar evoluindo em **Suporte Técnico N2/N3, IT Operations, Infraestrutura e ITSM**, aprofundando conhecimentos em **Linux, monitoramento, automação, redes, segurança da informação e desenvolvimento Java**.
 
@@ -376,7 +368,7 @@ Data
 
 ---
 
-## 🤝 Vamos nos conectar?
+# 🤝 Vamos nos conectar?
 
 Estou aberto a conexões profissionais, projetos e oportunidades relacionadas a:
 
@@ -385,11 +377,11 @@ Estou aberto a conexões profissionais, projetos e oportunidades relacionadas a:
 <div align="center">
 
 <a href="https://linkedin.com/in/maxwell-m-s">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:[maxwellmarinho@hotmail.com](mailto:maxwellmarinho@hotmail.com)">
-  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:maxwellmarinho@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
