@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Maxwell Marinho da Silva
 
-### **Especialista em Suporte Técnico N2/N3 • IT Operations • Infraestrutura • ITSM**
+### **IT Operations | Suporte Técnico N2/N3 | Infraestrutura | ITSM | Automação | Monitoramento**
 
 <p>
   <a href="https://linkedin.com/in/maxwell-m-s">
@@ -95,7 +95,7 @@ Atuo de forma integrada com equipes técnicas, usuários e fornecedores, buscand
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
 </p>
 
-### ☕ Em estudos
+### ☕ Java | Desenvolvimento de aplicações | POO | Maven
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
