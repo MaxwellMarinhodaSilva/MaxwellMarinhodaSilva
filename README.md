@@ -1,401 +1,91 @@
 <div align="center">
 
-# 👋 Olá, eu sou Maxwell Marinho da Silva
+# Maxwell Marinho da Silva
 
-### **IT Operations | Suporte Técnico N2/N3 | Infraestrutura | ITSM | Automação | Monitoramento**
+**Suporte Técnico N2/N3 | Infraestrutura e Operações de TI | ITSM | Monitoramento | Automação**
 
 <p>
-  <a href="https://linkedin.com/in/maxwell-m-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/maxwell-m-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:maxwellmarinho@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/E--mail-Contato_profissional-4B5563?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MaxwellMarinhodaSilva&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
 </div>
 
----
+## Perfil profissional
 
-## 👨‍💻 Sobre mim
+Profissional de Tecnologia da Informação com mais de 12 anos de experiência em suporte técnico, infraestrutura e operações de TI, com atuação em ambientes corporativos e operações críticas de negócio.
 
-Profissional de **Tecnologia da Informação com mais de 12 anos de experiência**, especializado em **Suporte Técnico N2/N3, IT Operations, Infraestrutura e ITSM**, com atuação em ambientes corporativos de médio e grande porte e em operações críticas de negócio.
+Experiência em suporte N2/N3, diagnóstico e resolução de incidentes, troubleshooting, Service Desk/ITSM, acompanhamento de SLA, Linux, Windows Server, Active Directory, redes TCP/IP, DNS, DHCP, VPN, bancos de dados e documentação técnica.
 
-Minha experiência envolve **gestão de incidentes e problemas, troubleshooting, atendimento técnico, administração de ambientes, monitoramento, Service Desk, cumprimento de SLAs e suporte a sistemas corporativos**.
+Na TNS América Latina, evoluí de Suporte Técnico Júnior para Suporte Técnico Pleno. Na Rede Menor Preço de Supermercado, fui responsável pelo suporte N2/N3 de 12 unidades, pela sustentação de aproximadamente 200 estações de trabalho e pelo suporte a ERP, WMS e frente de caixa/PDV.
 
-Atuo de forma integrada com equipes técnicas, usuários e fornecedores, buscando não apenas resolver incidentes, mas também aumentar a **disponibilidade, estabilidade e confiabilidade dos serviços de TI**.
+Também desenvolvo projetos públicos voltados a ferramentas desktop em Java, integração com serviços HTTP, processamento de dados e monitoramento via SNMP/Zabbix.
 
-### 🔎 Principais áreas de atuação
+## Competências principais
 
-* 🖥️ **Suporte Técnico N1/N2/N3**
-* ⚙️ **IT Operations & Infraestrutura**
-* 🎫 **ITSM / Service Desk / SLA**
-* 🐧 **Linux & Windows Server**
-* 🌐 **Redes / TCP-IP / VLAN / DNS / DHCP**
-* 📊 **Monitoramento / Zabbix / Grafana**
-* 🗄️ **MySQL / MongoDB / SQL Server**
-* 🐍 **Python / Automação**
-* ☕ **Java — em estudos**
-* 💻 **Shell Script**
-* 🏢 **ERP / WMS / PDV**
-* 🔧 **Troubleshooting e análise de incidentes**
-* 📝 **Documentação técnica e melhoria contínua**
+- **Suporte e operações:** Suporte Técnico N2/N3, troubleshooting, gestão de incidentes, Service Desk, ITSM, SLA e suporte remoto.
+- **Sistemas e infraestrutura:** Linux, Windows Server, Active Directory e administração de sistemas Linux.
+- **Redes:** TCP/IP, DNS, DHCP, VPN e SNMP.
+- **Monitoramento:** Zabbix, Grafana, análise de logs e diagnóstico.
+- **Dados:** SQL, MySQL, SQL Server, JSON e processamento de arquivos.
+- **Desenvolvimento e automação:** Java 21, Swing, Maven, Python, Shell Script, C++/Arduino e integrações HTTP.
+- **Sistemas corporativos:** ERP, WMS e PDV.
+- **Documentação:** procedimentos técnicos, base de conhecimento e melhoria contínua.
 
----
+## Projetos em destaque
 
-# 🛠️ Tech Stack
+### [ConsultaSeloDigital](https://github.com/MaxwellMarinhodaSilva/ConsultaSeloDigital)
 
-### 🖥️ Operating Systems
+Aplicação desktop em Java 21 para consultas em lote de selos digitais nos serviços públicos do TJPB, TJRN e TJPE. Inclui importação de arquivos TXT, CSV e XLSX, histórico, geração de QR Code e exportação de resultados em PDF e XLSX.
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
-</p>
+`Java 21` `Swing` `Maven` `HTTP Client` `Apache POI` `PDFBox` `ZXing`
 
-### 🌐 Networking & Infrastructure
+### [IndicadorReal](https://github.com/MaxwellMarinhodaSilva/IndicadorReal)
 
-<p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge" alt="TCP/IP"/>
-  <img src="https://img.shields.io/badge/VLAN-00599C?style=for-the-badge" alt="VLAN"/>
-  <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge" alt="DNS"/>
-  <img src="https://img.shields.io/badge/DHCP-4285F4?style=for-the-badge" alt="DHCP"/>
-</p>
+Aplicação desktop em Java 21 que interpreta registros de erro em TXT ou texto colado, cruza matrículas com arquivos JSON e corrige o campo `TIPOENVIO`. Gera JSON corrigido, relatório e log de execução.
 
-### 📊 Monitoring & Observability
+`Java 21` `Swing` `Maven` `Jackson` `JSON` `Processamento de dados`
 
-<p>
-  <img src="https://img.shields.io/badge/Zabbix-F11B22?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-</p>
+### [Monitoramento de Temperatura e Umidade via SNMP](https://github.com/MaxwellMarinhodaSilva/arduino-snmp-zabbix-dht22)
 
-### 🎫 ITSM & Service Management
+Agente SNMP em Arduino para disponibilizar leituras de temperatura e umidade ao Zabbix, com Ethernet Shield W5100 e sensor DHT22.
 
-<p>
-  <img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Service Management"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
-  <img src="https://img.shields.io/badge/ITSM-Management-6B7280?style=for-the-badge" alt="ITSM"/>
-</p>
+`Arduino` `C++` `SNMP` `Zabbix` `W5100` `DHT22`
 
-### 🗄️ Databases
+## Experiência profissional selecionada
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-</p>
+### TNS América Latina
 
-### 🐍 Automation & Scripting
+- **Suporte Técnico Pleno:** jan. de 2024 a jul. de 2025.
+- **Suporte Técnico Júnior:** jul. de 2022 a jan. de 2024.
+- Atuação em suporte N2/N3, gestão de chamados, acompanhamento de SLA, investigação de causa raiz, documentação técnica e colaboração com equipes internas e fornecedores.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-</p>
+### Rede Menor Preço de Supermercado
 
-### ☕ Java | Desenvolvimento de aplicações | POO | Maven
+- **Técnico de Informática:** jun. de 2015 a out. de 2019.
+- Suporte N2/N3 de 12 unidades, sustentação de aproximadamente 200 estações de trabalho e suporte a ERP, WMS e frente de caixa/PDV.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
+O histórico profissional completo está disponível no [LinkedIn](https://www.linkedin.com/in/maxwell-m-s/).
 
----
+## Formação acadêmica
 
-# 🚀 O que você encontrará neste GitHub
+- **Mestrado em Modelagem Matemática e Computacional** — Universidade Federal da Paraíba, 2022–2024.
+- **Bacharelado em Ciência da Computação** — Faculdade Internacional da Paraíba, 2018–2021.
 
-Este perfil reúne projetos e estudos voltados principalmente para **automação, infraestrutura, suporte técnico, administração de sistemas, bancos de dados, monitoramento, desenvolvimento em Java e ferramentas para operações de TI**.
+## Certificações selecionadas
 
-### 🔧 Áreas dos projetos
+- Fortinet Certified Associate in Cybersecurity — Fortinet, 2025–2027.
+- Fortinet Certified Fundamentals in Cybersecurity — Fortinet, 2025–2027.
+- Learning Linux Shell Scripting — LinkedIn, 2024.
+- Linux System Engineer: Web Servers and DNS Using Apache, NGINX, and BIND — LinkedIn, 2024.
+- Introdução ao Python — Alfahelix, 2024.
+- SQL Essential Training (2019) — LinkedIn, 2023.
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                       IT OPERATIONS                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🖥️ Technical Support         ⚙️ Infrastructure            │
-│  🎫 ITSM / Service Desk       📊 Monitoring                │
-│  🐧 Linux                     🪟 Windows Server            │
-│  🌐 Networking                🗄️ Databases                 │
-│  🐍 Python Automation         ☕ Java Studies              │
-│  💻 Shell Scripting           🔍 Troubleshooting           │
-│  📝 Technical Documentation   🔐 Cybersecurity             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+## Contato
 
----
-
-# 📌 Projetos em destaque
-
-> 🚧 Em constante evolução — novos projetos, estudos e automações serão adicionados.
-
-### 🐍 Automação com Python
-
-Projetos direcionados à automação de tarefas administrativas e operacionais, integração com serviços, manipulação de dados e criação de ferramentas para suporte técnico.
-
-**Tecnologias:** `Python` `APIs` `SQL` `Automation`
-
----
-
-### ☕ Estudos em Java
-
-Projetos e exercícios desenvolvidos durante meus estudos de Java, com foco na construção de uma base sólida em lógica de programação, orientação a objetos, estruturas de dados e desenvolvimento de aplicações.
-
-**Tecnologias:** `Java` `OOP` `Data Structures`
-
----
-
-### 🐧 Linux & Shell
-
-Scripts e ferramentas para administração, diagnóstico e automação de tarefas em ambientes Linux.
-
-**Tecnologias:** `Linux` `Bash` `Shell Script`
-
----
-
-### 🗄️ Database & SQL
-
-Consultas, scripts e ferramentas para análise e manipulação de dados utilizando bancos relacionais e NoSQL.
-
-**Tecnologias:** `MySQL` `SQL Server` `MongoDB` `SQL`
-
----
-
-### 📊 Monitoring & IT Operations
-
-Estudos e projetos relacionados a monitoramento de infraestrutura, disponibilidade de serviços, análise operacional e observabilidade.
-
-**Tecnologias:** `Zabbix` `Grafana` `IT Operations`
-
----
-
-# 🧠 Competências técnicas
-
-```yaml
-IT_Operations:
-  - Technical Support
-  - N1 / N2 / N3
-  - Incident Management
-  - Problem Management
-  - Troubleshooting
-  - Service Desk
-  - SLA
-  - Operational Continuity
-
-Infrastructure:
-  - Linux
-  - Windows Server
-  - Systems Administration
-  - Networking
-  - TCP/IP
-  - VLAN
-  - DNS
-  - DHCP
-
-Monitoring:
-  - Zabbix
-  - Grafana
-
-ITSM:
-  - Jira Service Management
-  - Salesforce
-  - Incident Management
-  - Service Desk
-  - SLA Management
-
-Databases:
-  - MySQL
-  - MongoDB
-  - SQL Server
-
-Automation:
-  - Python
-  - Shell Script
-
-Development:
-  - Java
-  - Object-Oriented Programming
-  - Data Structures
-  - Programming Logic
-```
-
----
-
-# 💼 Experiência profissional
-
-## 🏢 Transaction Network Serviços de Tecnologia do Brasil LTDA
-
-**Suporte Técnico Pleno — N2/N3**
-`Jul 2022 → Jul 2025`
-
-Atuação em suporte técnico e operações de TI, com foco na resolução de incidentes e continuidade operacional.
-
-* Gestão de chamados através de sistemas de Service Desk;
-* Cumprimento de prioridades e **SLAs**;
-* Atendimento e resolução de demandas técnicas;
-* Interação com fornecedores e equipes técnicas;
-* Tratamento de incidentes complexos;
-* Atuação na estabilidade, segurança e melhoria contínua dos serviços.
-
----
-
-## 🏢 Rede Menor Preço Supermercados LTDA
-
-**Técnico de Informática**
-`Jun 2015 → Out 2019`
-
-* Suporte técnico **N2/N3 para 12 unidades**;
-* Suporte a aproximadamente **200 estações de trabalho e sistemas**;
-* Suporte a **ERP, WMS e sistemas de frente de caixa**;
-* Atendimento direto aos usuários;
-* Resolução de incidentes;
-* Suporte e melhorias na infraestrutura de TI.
-
----
-
-## 🏢 Qualitech Informática
-
-**Vendedor Técnico**
-`Mai 2014 → Mai 2015`
-
-Atuação comercial e técnica na venda de equipamentos e soluções de Tecnologia da Informação, auxiliando clientes na identificação e escolha de soluções adequadas.
-
----
-
-## 🏢 Superbox Brasil Supermercados
-
-**Gerente Comercial | T.I.**
-`Mai 2010 → Mar 2014`
-
-* Gestão das equipes comercial e de Tecnologia da Informação;
-* Gestão de sistemas ERP;
-* Infraestrutura de redes;
-* Projetos de TI;
-* Melhoria de processos corporativos;
-* Garantia da disponibilidade dos sistemas.
-
----
-
-## 🏢 Carrefour Comércio e Indústria LTDA
-
-**Caixa | Administrativo | T.I.**
-`Mai 2005 → Jan 2009`
-
-Atuação nas áreas operacional, administrativa e de Tecnologia da Informação, incluindo suporte a sistemas e equipamentos de ponto de venda, controle de inventário e apoio à manutenção da infraestrutura.
-
----
-
-# 🎓 Formação
-
-### 🎓 Bacharelado em Ciência da Computação
-
-**FPB — Faculdade Internacional da Paraíba**
-`2021`
-
----
-
-# 🏅 Certificações & Formação Complementar
-
-| Certificação / Curso                                 | Instituição       |       Ano |
-| ---------------------------------------------------- | ----------------- | --------: |
-| 🛡️ Fortinet Certified Associate in Cybersecurity    | Fortinet          | 2025–2027 |
-| 🛡️ Fortinet Certified Fundamentals in Cybersecurity | Fortinet          | 2025–2027 |
-| 🎫 Jira Service Management — ITSM                    | Udemy             |      2026 |
-| 🐧 Linux System Engineer                             | LinkedIn Learning |      2024 |
-| 🐍 Python                                            | Alfahelix         |         — |
-| 💻 Shell Script                                      | Udemy             |         — |
-| 🗄️ SQL Essential                                    | LinkedIn          |         — |
-| 🐧 Fundamentos em Linux                              | WB                |         — |
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<br/>
-
-<a href="https://github.com/MaxwellMarinhodaSilva">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxwellMarinhodaSilva&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
-# 📈 Atualmente
-
-Meu foco é continuar evoluindo em **Suporte Técnico N2/N3, IT Operations, Infraestrutura e ITSM**, aprofundando conhecimentos em **Linux, monitoramento, automação, redes, segurança da informação e desenvolvimento Java**.
-
-```text
-Linux
-   │
-   ├── System Administration
-   ├── Shell Script
-   └── Troubleshooting
-   │
-Networking
-   │
-   ├── TCP/IP
-   ├── VLAN
-   ├── DNS
-   └── DHCP
-   │
-Monitoring
-   │
-   ├── Zabbix
-   └── Grafana
-   │
-Automation
-   │
-   ├── Python
-   └── Shell Script
-   │
-Development
-   │
-   ├── Java
-   ├── Object-Oriented Programming
-   └── Data Structures
-   │
-Data
-   │
-   ├── MySQL
-   ├── SQL Server
-   └── MongoDB
-```
-
----
-
-# 🤝 Vamos nos conectar?
-
-Estou aberto a conexões profissionais, projetos e oportunidades relacionadas a:
-
-**Suporte Técnico N2/N3 • IT Operations • Infraestrutura • ITSM • Service Desk • Linux • Redes • Monitoramento • Automação • Java • Bancos de Dados**
-
-<div align="center">
-
-<a href="https://linkedin.com/in/maxwell-m-s">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:maxwellmarinho@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚙️ IT Operations • Automation • Infrastructure • Reliability
-
-*"Solving problems, automating processes and keeping technology running."*
-
-<br>
-
-**Maxwell Marinho da Silva**
-
-</div>
+- [LinkedIn — Maxwell Marinho da Silva](https://www.linkedin.com/in/maxwell-m-s/)
+- [E-mail profissional](mailto:maxwellmarinho@hotmail.com)
