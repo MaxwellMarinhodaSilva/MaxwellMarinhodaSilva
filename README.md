@@ -75,7 +75,7 @@ Agente SNMP em Arduino que mantém leituras periódicas de temperatura e umidade
 
 **Tecnologias comprovadas:** Arduino, C++, SNMP, Zabbix, Ethernet W5100, DHT22 e Agentuino.
 
-## Experiência profissional selecionada
+## Experiência profissional
 
 ### TNS América Latina
 
