@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-maxwell-marinho.png" alt="Banner profissional de Maxwell Marinho da Silva" width="100%">
+<img src="assets/banner-maxwell-marinho-v2.png" alt="Banner profissional de Maxwell Marinho da Silva" width="100%">
 
 <br>
 
