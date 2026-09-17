@@ -56,8 +56,9 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 
 ## 🎯 Principais áreas de atuação
 
-<table>
+<table width="100%">
 <tr>
+
 <td valign="top" width="50%">
 
 <h3>🖥️ Suporte & Operações</h3>
@@ -97,9 +98,11 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 </ul>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td valign="top" width="50%">
 
 <h3>📊 Monitoramento & Dados</h3>
@@ -136,6 +139,7 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 </ul>
 
 </td>
+
 </tr>
 </table>
 
