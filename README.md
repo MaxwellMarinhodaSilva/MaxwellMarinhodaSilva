@@ -391,6 +391,11 @@ Atuação com suporte técnico a sistemas, equipamentos e soluções de ponto de
 - **Jira Service Management — ITSM** — Udemy  
   `2026`
 
+### 📊 Monitoramento e observabilidade
+
+- **Introdução ao Splunk** — Udemy  
+  `2026`
+
 ### 🐧 Linux e Shell
 
 - **Linux System Engineer** — LinkedIn Learning  
