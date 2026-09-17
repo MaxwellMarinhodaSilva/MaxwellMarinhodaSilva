@@ -274,6 +274,23 @@ O projeto demonstra integração entre **hardware, redes, protocolo de gerenciam
 
 # 💼 Experiência profissional
 
+## 🏢 Virtus Sistemas
+
+### Suporte Técnico
+**abr. de 2026 – o momento**
+
+Atuação em suporte técnico especializado de soluções de software voltadas à automação de serviços notariais, registrais e de distribuição, com foco em estabilidade, continuidade e resolução de incidentes em produção.
+
+Principais responsabilidades:
+
+- atendimento e suporte técnico a clientes e usuários;
+- investigação, diagnóstico e resolução de incidentes em produção;
+- análise de logs de aplicações Java/Tomcat e consultas/correções em bancos de dados SQL;
+- validação e tratamento de arquivos XML, JSON e TXT;
+- apoio a integrações, acompanhamento de chamados/SLA e documentação de falhas recorrentes.
+
+---
+
 ## 🏢 TNS América Latina
 
 ### Suporte Técnico Pleno
