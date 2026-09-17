@@ -13,7 +13,7 @@
 </p>
 
 <p>
-Profissional de Tecnologia da Informação com <strong>mais de 12 anos de experiência</strong>, atuando em suporte técnico, infraestrutura e operações de TI, com foco em <strong>troubleshooting, gestão de incidentes, continuidade operacional e sustentação de ambientes corporativos</strong>.
+Profissional de Tecnologia da Informação com <strong>mais de 12 anos de experiência</strong> em suporte técnico, infraestrutura e operações de TI, com atuação em <strong>troubleshooting, gestão de incidentes, continuidade operacional e sustentação de ambientes corporativos</strong>.
 </p>
 
 <br>
@@ -38,13 +38,15 @@ Profissional de Tecnologia da Informação com <strong>mais de 12 anos de experi
 
 ## 👨‍💻 Perfil profissional
 
-Profissional de **Tecnologia da Informação com mais de 12 anos de experiência**, com trajetória em **Suporte Técnico N2/N3, Infraestrutura e Operações de TI**, atuando em ambientes corporativos e operações críticas de negócio.
+Profissional de **Tecnologia da Informação com mais de 12 anos de experiência**, com trajetória em **Suporte Técnico N2/N3, Infraestrutura e Operações de TI**, incluindo atuação em ambientes corporativos e operações críticas de negócio.
 
 Experiência em **diagnóstico e resolução de incidentes, troubleshooting, Service Desk/ITSM, acompanhamento de SLA, suporte remoto, análise de problemas, monitoramento, documentação técnica e sustentação de sistemas corporativos**.
 
-Atuação com **Linux, Windows Server, Active Directory, redes TCP/IP, DNS, DHCP, VPN, bancos de dados, monitoramento com Zabbix e Grafana, análise de logs e suporte a ambientes ERP, WMS e frente de caixa/PDV**.
+Atuação com **Linux, Windows Server, Active Directory, redes TCP/IP, DNS, DHCP, VPN, bancos de dados, Zabbix, Grafana, análise de logs e suporte a ambientes ERP, WMS e frente de caixa/PDV**.
 
-Automação e desenvolvimento complementam minha atuação em infraestrutura e suporte. Meus projetos públicos demonstram aplicação prática de **Java, Python, Shell Script, APIs, integrações HTTP, processamento de arquivos, JSON, SNMP, Zabbix e desenvolvimento de ferramentas voltadas à solução de problemas reais**.
+Na atuação atual, também trabalho com **análise de logs de aplicações Java/Tomcat, consultas e correções em bancos de dados SQL, validação de arquivos XML, JSON e TXT, suporte a integrações e tratamento de incidentes em produção**.
+
+Automação e desenvolvimento complementam minha experiência em infraestrutura e suporte. Meus projetos públicos demonstram aplicação prática de **Java, Python, Shell Script, APIs, integrações HTTP, processamento de arquivos, SNMP, Zabbix e desenvolvimento de ferramentas voltadas à solução de problemas reais**.
 
 > **Especialidade principal:** Suporte Técnico N2/N3 e Infraestrutura de TI
 > **Contexto operacional:** IT Operations, ITSM, incidentes, troubleshooting e continuidade de serviços
@@ -110,7 +112,7 @@ Automação e desenvolvimento complementam minha atuação em infraestrutura e s
 <li>MySQL</li>
 <li>SQL Server</li>
 <li>MongoDB</li>
-<li>JSON</li>
+<li>JSON e XML</li>
 <li>Análise e tratamento de dados</li>
 </ul>
 
@@ -126,11 +128,11 @@ Automação e desenvolvimento complementam minha atuação em infraestrutura e s
 <li>Java</li>
 <li>Swing</li>
 <li>Maven</li>
+<li>Apache Tomcat</li>
 <li>APIs</li>
 <li>Integrações HTTP</li>
 <li>Processamento de arquivos</li>
 <li>C++ / Arduino</li>
-<li>Automação de processos</li>
 </ul>
 
 </td>
@@ -177,7 +179,7 @@ Automação e desenvolvimento complementam minha atuação em infraestrutura e s
   <img src="https://img.shields.io/badge/SLA-Operational_Management-607D8B?style=flat-square" alt="SLA">
 </p>
 
-### 🗄️ Bancos de Dados e Dados
+### 🗄️ Bancos de Dados e Formatos
 
 <p>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL">
@@ -185,6 +187,7 @@ Automação e desenvolvimento complementam minha atuação em infraestrutura e s
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square" alt="XML">
 </p>
 
 ### 🤖 Automação e Scripting
@@ -194,12 +197,13 @@ Automação e desenvolvimento complementam minha atuação em infraestrutura e s
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell Script">
 </p>
 
-### ☕ Desenvolvimento aplicado
+### ☕ Desenvolvimento aplicado e Integrações
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Swing-5382A1?style=flat-square&logo=openjdk&logoColor=white" alt="Java Swing">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Apache Maven">
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Apache Tomcat">
   <img src="https://img.shields.io/badge/HTTP-005571?style=flat-square" alt="HTTP">
   <img src="https://img.shields.io/badge/APIs-02569B?style=flat-square" alt="APIs">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
@@ -214,7 +218,7 @@ Automação e desenvolvimento complementam minha atuação em infraestrutura e s
 
 Aplicação desktop desenvolvida para **centralizar consultas de selos digitais de tribunais**, permitindo processamento individual e em lote por meio de uma interface gráfica.
 
-O projeto aplica desenvolvimento de software diretamente à resolução de uma necessidade operacional, reunindo consulta de dados, processamento, histórico, importação, exportação e tratamento das informações retornadas pelos serviços externos.
+O projeto aplica desenvolvimento de software diretamente à resolução de uma necessidade operacional, reunindo consulta de dados, processamento, histórico, importação, exportação e tratamento das informações retornadas por serviços externos.
 
 #### Principais recursos
 
@@ -239,7 +243,7 @@ O projeto aplica desenvolvimento de software diretamente à resolução de uma n
 
 ### 🛠️ [IndicadorReal](https://github.com/MaxwellMarinhodaSilva/IndicadorReal)
 
-Aplicação desktop criada para **automatizar a análise e correção de informações em arquivos**, interpretando registros de erro em TXT ou texto informado diretamente pelo usuário e realizando o cruzamento das informações com dados estruturados em JSON.
+Aplicação desktop criada para **automatizar a análise e correção de informações em arquivos**, interpretando registros de erro em TXT ou texto informado diretamente pelo usuário e cruzando essas informações com dados estruturados em JSON.
 
 A aplicação identifica as matrículas relacionadas aos erros, ajusta o campo `TIPOENVIO`, preserva o arquivo original e gera os artefatos resultantes da operação.
 
@@ -267,7 +271,7 @@ A aplicação identifica as matrículas relacionadas aos erros, ajusta o campo `
 
 Projeto de monitoramento que integra **Arduino, sensor DHT22, rede Ethernet, protocolo SNMP e Zabbix** para disponibilizar informações de temperatura e umidade a uma plataforma de monitoramento.
 
-O projeto demonstra integração entre **hardware, redes, protocolo de gerenciamento e monitoramento de infraestrutura**.
+O projeto demonstra integração prática entre **hardware, redes, protocolo de gerenciamento e monitoramento de infraestrutura**.
 
 #### Principais recursos
 
@@ -295,7 +299,7 @@ O projeto demonstra integração entre **hardware, redes, protocolo de gerenciam
 
 **abr. de 2026 – atual**
 
-Atuação em suporte técnico especializado de soluções de software voltadas à automação de serviços notariais, registrais e de distribuição, com foco em estabilidade, continuidade e resolução de incidentes em produção.
+Atuação em suporte técnico especializado a soluções de software voltadas à automação de serviços notariais, registrais e de distribuição, com foco em **estabilidade, continuidade operacional e resolução de incidentes em produção**.
 
 **Principais responsabilidades:**
 
@@ -304,9 +308,9 @@ Atuação em suporte técnico especializado de soluções de software voltadas �
 * análise de logs de aplicações Java/Tomcat;
 * consultas e correções em bancos de dados SQL;
 * validação e tratamento de arquivos XML, JSON e TXT;
-* apoio a integrações;
+* apoio técnico a integrações com serviços externos;
 * acompanhamento de chamados e SLA;
-* documentação de falhas recorrentes.
+* documentação de falhas recorrentes e procedimentos técnicos.
 
 ---
 
@@ -346,14 +350,14 @@ Atuação em **Suporte Técnico N2/N3 e operações de TI**, com foco em diagnó
 
 **jun. de 2015 – out. de 2019**
 
-Responsável pelo suporte técnico e sustentação de ambientes de TI distribuídos entre **12 unidades**, atendendo aproximadamente **200 estações de trabalho e sistemas corporativos**.
+Responsável pelo suporte técnico e pela sustentação de ambientes de TI distribuídos entre **12 unidades**, atendendo aproximadamente **200 estações de trabalho e sistemas corporativos**.
 
 **Principais atividades:**
 
 * Suporte Técnico N2/N3;
 * sustentação de aproximadamente 200 estações de trabalho;
-* suporte às 12 unidades da empresa;
-* atendimento técnico aos usuários;
+* suporte técnico às 12 unidades da empresa;
+* atendimento aos usuários;
 * suporte a sistemas ERP;
 * suporte a WMS;
 * suporte a sistemas de frente de caixa/PDV;
@@ -384,7 +388,7 @@ Atuação na comercialização de equipamentos e soluções de Tecnologia da Inf
 <strong>Gerente Comercial | set. de 2010 – mar. de 2014</strong>
 
 <p>
-Atuação integrada às áreas comercial e de Tecnologia da Informação, incluindo gestão de sistemas ERP, infraestrutura de redes e apoio a projetos de TI e melhoria de processos corporativos.
+Atuação integrada às áreas comercial e de Tecnologia da Informação, incluindo gestão de sistemas ERP, infraestrutura de redes e apoio a projetos de TI e à melhoria de processos corporativos.
 </p>
 
 <hr>
@@ -394,7 +398,7 @@ Atuação integrada às áreas comercial e de Tecnologia da Informação, inclui
 <strong>Auxiliar de TI / Suporte Técnico | parte da trajetória entre 2005 e 2009</strong>
 
 <p>
-Atuação com suporte técnico a sistemas, equipamentos e soluções de ponto de venda, além de apoio à manutenção da infraestrutura e resolução de incidentes.
+Atuação com suporte técnico a sistemas, equipamentos e soluções de ponto de venda, além de apoio à manutenção da infraestrutura e à resolução de incidentes.
 </p>
 
 </details>
@@ -411,8 +415,6 @@ Atuação com suporte técnico a sistemas, equipamentos e soluções de ponto de
 
 **Universidade Federal da Paraíba — UFPB**
 `2022 – 2024`
-
----
 
 ### 🎓 Bacharelado em Ciência da Computação
 
