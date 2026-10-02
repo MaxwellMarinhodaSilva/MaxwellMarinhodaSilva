@@ -63,7 +63,7 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 
 <td valign="top" width="50%">
 
-<h3>🖥️ Suporte & Operações</h3>
+<h4>🖥️ Suporte &<br>Operações</h4>
 
 <ul>
 <li>Suporte Técnico N1/N2/N3</li>
@@ -83,7 +83,7 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 
 <td valign="top" width="50%">
 
-<h3>⚙️ Infraestrutura & Sistemas</h3>
+<h4>⚙️ Infraestrutura &<br>Sistemas</h4>
 
 <ul>
 <li>Linux</li>
@@ -107,7 +107,7 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 
 <td valign="top" width="50%">
 
-<h3>📊 Monitoramento & Dados</h3>
+<h4>📊 Monitoramento &<br>Dados</h4>
 
 <ul>
 <li>Zabbix</li>
@@ -125,7 +125,7 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 
 <td valign="top" width="50%">
 
-<h3>🤖 Automação & Desenvolvimento</h3>
+<h4>🤖 Automação &<br>Desenvolvimento</h4>
 
 <ul>
 <li>Python</li>
