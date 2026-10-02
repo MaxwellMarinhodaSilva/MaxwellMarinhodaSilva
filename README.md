@@ -38,7 +38,7 @@ Profissional de Tecnologia da Informação com <strong>mais de 12 anos de experi
 
 ## 👨‍💻 Perfil profissional
 
-Profissional de **Tecnologia da Informação com mais de 12 anos de experiência**, com trajetória em **Suporte Técnico N2/N3, Infraestrutura e Operações de TI**, incluindo atuação em ambientes corporativos e operações críticas de negócio.
+Minha trajetória reúne **Suporte Técnico N2/N3, Infraestrutura e Operações de TI**, com atuação em ambientes corporativos e operações críticas de negócio.
 
 Experiência em **diagnóstico e resolução de incidentes, troubleshooting, Service Desk/ITSM, acompanhamento de SLA, suporte remoto, análise de problemas, monitoramento, documentação técnica e sustentação de sistemas corporativos**.
 
@@ -46,17 +46,19 @@ Atuação com **Linux, Windows Server, Active Directory, redes TCP/IP, DNS, DHCP
 
 Na atuação atual, também trabalho com **análise de logs de aplicações Java/Tomcat, consultas e correções em bancos de dados SQL, validação de arquivos XML, JSON e TXT, suporte a integrações e tratamento de incidentes em produção**.
 
-Automação e desenvolvimento complementam minha experiência em infraestrutura e suporte. Meus projetos públicos demonstram aplicação prática de **Java, Python, Shell Script, APIs, integrações HTTP, processamento de arquivos, SNMP, Zabbix e desenvolvimento de ferramentas voltadas à solução de problemas reais**.
+Automação e desenvolvimento complementam minha experiência em infraestrutura e suporte. Meus projetos públicos demonstram aplicação prática de **Java, integrações HTTP, processamento de arquivos, C++/Arduino e SNMP para monitoramento com Zabbix**.
 
 > **Especialidade principal:** Suporte Técnico N2/N3 e Infraestrutura de TI
+>
 > **Contexto operacional:** IT Operations, ITSM, incidentes, troubleshooting e continuidade de serviços
+>
 > **Diferencial técnico:** automação, integração de sistemas e desenvolvimento de ferramentas aplicadas à operação
 
 ---
 
 ## 🎯 Principais áreas de atuação
 
-<table width="100%">
+<table width="100%" align="center" style="width:100%;table-layout:fixed">
 <tr>
 
 <td valign="top" width="50%">
