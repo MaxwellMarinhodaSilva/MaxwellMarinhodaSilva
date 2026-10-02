@@ -116,7 +116,6 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 <li>SQL</li>
 <li>MySQL</li>
 <li>SQL Server</li>
-<li>MongoDB</li>
 <li>JSON e XML</li>
 <li>Análise e tratamento de dados</li>
 </ul>
@@ -161,7 +160,6 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 
 <p>
   <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square" alt="TCP/IP">
-  <img src="https://img.shields.io/badge/VLAN-00599C?style=flat-square" alt="VLAN">
   <img src="https://img.shields.io/badge/DNS-4285F4?style=flat-square" alt="DNS">
   <img src="https://img.shields.io/badge/DHCP-4285F4?style=flat-square" alt="DHCP">
   <img src="https://img.shields.io/badge/VPN-3949AB?style=flat-square" alt="VPN">
@@ -181,7 +179,6 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
   <img src="https://img.shields.io/badge/ITSM-Service_Management-455A64?style=flat-square" alt="ITSM">
   <img src="https://img.shields.io/badge/Service_Desk-546E7A?style=flat-square" alt="Service Desk">
   <img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira Service Management">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce">
   <img src="https://img.shields.io/badge/SLA-Operational_Management-607D8B?style=flat-square" alt="SLA">
 </p>
 
@@ -191,7 +188,6 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
   <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square" alt="XML">
 </p>
