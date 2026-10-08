@@ -216,6 +216,32 @@ Automação e desenvolvimento complementam minha experiência em infraestrutura 
 
 ## 🚀 Projetos em destaque
 
+### 🧾 [CorretorSipat](https://github.com/MaxwellMarinhodaSilva/CorretorSipat)
+
+Aplicação desktop desenvolvida para **analisar e corrigir arquivos posicionais SIPAT**, preservando a primeira ocorrência de cada protocolo e removendo duplicidades posteriores com rastreabilidade.
+
+O projeto mantém o arquivo original, recalcula os controles estruturais e valida novamente a saída após a gravação, reduzindo o risco de inconsistências no processamento.
+
+#### Principais recursos
+
+* análise estrutural de arquivos SIPAT;
+* identificação e remoção controlada de protocolos duplicados;
+* recálculo de quantidades, soma financeira e sequenciais;
+* preservação do arquivo original;
+* validação independente após a gravação;
+* geração de SIP corrigido, relatório TXT, CSV e log;
+* histórico local de processamentos;
+* interface gráfica desktop com tema claro e escuro;
+* testes automatizados com dados sintéticos.
+
+**Tecnologias:** `Java 21` `Swing` `Maven` `FlatLaf` `JUnit 5` `jpackage`
+
+<a href="https://github.com/MaxwellMarinhodaSilva/CorretorSipat">
+  <img src="https://img.shields.io/badge/Acessar-Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório CorretorSipat">
+</a>
+
+---
+
 ### 🔎 [ConsultaSeloDigital](https://github.com/MaxwellMarinhodaSilva/ConsultaSeloDigital)
 
 Aplicação desktop desenvolvida para **centralizar consultas de selos digitais de tribunais**, permitindo processamento individual e em lote por meio de uma interface gráfica.
