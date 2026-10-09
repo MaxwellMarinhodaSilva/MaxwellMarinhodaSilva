@@ -4,519 +4,323 @@
 
 <br>
 
-<h1>Maxwell Marinho da Silva</h1>
+# Maxwell Marinho da Silva
 
-<h3>Analista de Suporte Técnico | N2/N3 | Infraestrutura de TI | IT Operations</h3>
+### Analista de Suporte Técnico · N2/N3 · Infraestrutura de TI · IT Operations
 
-<p>
-<strong>Suporte Técnico • Infraestrutura • Linux • Windows Server • Redes • ITSM • Monitoramento • Automação</strong>
-</p>
-
-<p>
-Profissional de Tecnologia da Informação com <strong>mais de 12 anos de experiência</strong> em suporte técnico, infraestrutura e operações de TI, com atuação em <strong>troubleshooting, gestão de incidentes, continuidade operacional e sustentação de ambientes corporativos</strong>.
-</p>
+Suporte e infraestrutura para manter ambientes corporativos **estáveis, documentados e disponíveis** — com automação aplicada aos desafios da operação.
 
 <br>
 
-<a href="https://www.linkedin.com/in/maxwell-m-s/">
-  <img src="https://img.shields.io/badge/LinkedIn-Maxwell%20Marinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Maxwell Marinho da Silva">
-</a>
-<a href="https://github.com/MaxwellMarinhodaSilva?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios de Maxwell Marinho da Silva">
-</a>
-<a href="mailto:maxwellmarinho@hotmail.com">
-  <img src="https://img.shields.io/badge/E--mail-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail de Maxwell Marinho da Silva">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwell-m-s/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ver_repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxwellMarinhodaSilva?tab=repositories)
+[![E-mail](https://img.shields.io/badge/E--mail-Entrar_em_contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:maxwellmarinho@hotmail.com)
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=MaxwellMarinhodaSilva&style=flat-square&color=0A66C2&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil">
+![Experiência](https://img.shields.io/badge/Experiência-12%2B_anos-0A66C2?style=flat-square)
+![Foco](https://img.shields.io/badge/Foco-Suporte_N2%2FN3-253858?style=flat-square)
+![Infraestrutura](https://img.shields.io/badge/Atuação-Infraestrutura_e_Operações-455A64?style=flat-square)
+![Automação](https://img.shields.io/badge/Diferencial-Automação_aplicada-3776AB?style=flat-square)
+
+<br>
+
+[Sobre](#-sobre-mim) · [Competências](#-competências) · [Projetos](#-projetos-em-destaque) · [Experiência](#-experiência-profissional) · [Formação](#-formação-e-certificações) · [Contato](#-vamos-conversar)
+
+<br>
+
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=MaxwellMarinhodaSilva&style=flat-square&color=0A66C2&label=Visualizações+do+perfil)
 
 </div>
 
 ---
 
-## 👨‍💻 Perfil profissional
+## 👋 Sobre mim
 
-Minha trajetória reúne **Suporte Técnico N2/N3, Infraestrutura e Operações de TI**, com atuação em ambientes corporativos e operações críticas de negócio.
+Profissional de Tecnologia da Informação com **mais de 12 anos de experiência** em suporte técnico, infraestrutura e operações de TI. Minha trajetória combina atendimento **N2/N3**, troubleshooting, gestão de incidentes, continuidade operacional e sustentação de ambientes corporativos.
 
-Experiência em **diagnóstico e resolução de incidentes, troubleshooting, Service Desk/ITSM, acompanhamento de SLA, suporte remoto, análise de problemas, monitoramento, documentação técnica e sustentação de sistemas corporativos**.
+Atuo com **Linux, Windows Server, Active Directory, redes, bancos de dados, monitoramento e sistemas corporativos**. No contexto atual, trabalho também com análise de logs de aplicações Java/Tomcat, consultas e correções SQL, validação de arquivos XML, JSON e TXT e suporte a integrações.
 
-Atuação com **Linux, Windows Server, Active Directory, redes TCP/IP, DNS, DHCP, VPN, bancos de dados, Zabbix, Grafana, análise de logs e suporte a ambientes ERP, WMS e frente de caixa/PDV**.
+Uso desenvolvimento e automação como extensão da operação: meus projetos públicos aplicam **Java, integrações HTTP, processamento de arquivos, C++/Arduino e SNMP** a problemas técnicos reais.
 
-Na atuação atual, também trabalho com **análise de logs de aplicações Java/Tomcat, consultas e correções em bancos de dados SQL, validação de arquivos XML, JSON e TXT, suporte a integrações e tratamento de incidentes em produção**.
-
-Automação e desenvolvimento complementam minha experiência em infraestrutura e suporte. Meus projetos públicos demonstram aplicação prática de **Java, integrações HTTP, processamento de arquivos, C++/Arduino e SNMP para monitoramento com Zabbix**.
-
-> **Especialidade principal:** Suporte Técnico N2/N3 e Infraestrutura de TI
->
-> **Contexto operacional:** IT Operations, ITSM, incidentes, troubleshooting e continuidade de serviços
->
-> **Diferencial técnico:** automação, integração de sistemas e desenvolvimento de ferramentas aplicadas à operação
-
----
-
-## 🎯 Principais áreas de atuação
-
-<table width="100%" align="center">
-<tr>
-
-<td valign="top" width="50%">
-
-<h4>🖥️ Suporte &<br>Operações</h4>
-
-<ul>
-<li>Suporte Técnico N1/N2/N3</li>
-<li>Troubleshooting</li>
-<li>Gestão de incidentes</li>
-<li>Análise de problemas</li>
-<li>Service Desk</li>
-<li>ITSM</li>
-<li>SLA</li>
-<li>Suporte remoto</li>
-<li>Continuidade operacional</li>
-<li>Documentação técnica</li>
-<li>Base de conhecimento</li>
-</ul>
-
-</td>
-
-<td valign="top" width="50%">
-
-<h4>⚙️ Infraestrutura &<br>Sistemas</h4>
-
-<ul>
-<li>Linux</li>
-<li>Windows Server</li>
-<li>Active Directory</li>
-<li>Administração de sistemas</li>
-<li>Redes TCP/IP</li>
-<li>DNS</li>
-<li>DHCP</li>
-<li>VPN</li>
-<li>Monitoramento</li>
-<li>Análise de logs</li>
-<li>Sistemas corporativos</li>
-</ul>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top" width="50%">
-
-<h4>📊 Monitoramento &<br>Dados</h4>
-
-<ul>
-<li>Zabbix</li>
-<li>Grafana</li>
-<li>SNMP</li>
-<li>SQL</li>
-<li>MySQL</li>
-<li>SQL Server</li>
-<li>JSON e XML</li>
-<li>Análise e tratamento de dados</li>
-</ul>
-
-</td>
-
-<td valign="top" width="50%">
-
-<h4>🤖 Automação &<br>Desenvolvimento</h4>
-
-<ul>
-<li>Python</li>
-<li>Shell Script</li>
-<li>Java</li>
-<li>Swing</li>
-<li>Maven</li>
-<li>Apache Tomcat</li>
-<li>APIs</li>
-<li>Integrações HTTP</li>
-<li>Processamento de arquivos</li>
-<li>C++ / Arduino</li>
-</ul>
-
-</td>
-
-</tr>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧭 Especialidade</h3>
+      <p>Suporte Técnico N2/N3 e Infraestrutura de TI.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Contexto</h3>
+      <p>IT Operations, ITSM, incidentes, troubleshooting e continuidade de serviços.</p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>🤖 Diferencial</h3>
+      <p>Automação, integração de sistemas e ferramentas aplicadas à operação.</p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🧩 Competências
 
-### 🖥️ Sistemas e Infraestrutura
+### Suporte, operações e infraestrutura
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server">
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Active Directory">
-</p>
+![Suporte N1/N2/N3](https://img.shields.io/badge/Suporte-N1%20%7C%20N2%20%7C%20N3-0A66C2?style=flat-square)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-253858?style=flat-square)
+![Incidentes](https://img.shields.io/badge/Gestão_de_incidentes-455A64?style=flat-square)
+![ITSM](https://img.shields.io/badge/ITSM-Service_Management-455A64?style=flat-square)
+![Service Desk](https://img.shields.io/badge/Service_Desk-546E7A?style=flat-square)
+![SLA](https://img.shields.io/badge/SLA-Acompanhamento-607D8B?style=flat-square)
+![Documentação](https://img.shields.io/badge/Documentação_técnica-37474F?style=flat-square)
 
-### 🌐 Redes e Serviços
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=flat-square)
+![DHCP](https://img.shields.io/badge/DHCP-4285F4?style=flat-square)
+![VPN](https://img.shields.io/badge/VPN-3949AB?style=flat-square)
 
-<p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square" alt="TCP/IP">
-  <img src="https://img.shields.io/badge/DNS-4285F4?style=flat-square" alt="DNS">
-  <img src="https://img.shields.io/badge/DHCP-4285F4?style=flat-square" alt="DHCP">
-  <img src="https://img.shields.io/badge/VPN-3949AB?style=flat-square" alt="VPN">
-  <img src="https://img.shields.io/badge/SNMP-455A64?style=flat-square" alt="SNMP">
-</p>
+### Monitoramento, dados e sistemas
 
-### 📊 Monitoramento e Observabilidade
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SNMP](https://img.shields.io/badge/SNMP-455A64?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square)
+![ERP](https://img.shields.io/badge/ERP-Suporte-5C6BC0?style=flat-square)
+![WMS](https://img.shields.io/badge/WMS-Suporte-3949AB?style=flat-square)
+![PDV](https://img.shields.io/badge/PDV-Suporte-283593?style=flat-square)
 
-<p>
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
-</p>
+### Automação, desenvolvimento e integrações
 
-### 🎫 ITSM e Operações
-
-<p>
-  <img src="https://img.shields.io/badge/ITSM-Service_Management-455A64?style=flat-square" alt="ITSM">
-  <img src="https://img.shields.io/badge/Service_Desk-546E7A?style=flat-square" alt="Service Desk">
-  <img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira Service Management">
-  <img src="https://img.shields.io/badge/SLA-Operational_Management-607D8B?style=flat-square" alt="SLA">
-</p>
-
-### 🗄️ Bancos de Dados e Formatos
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
-  <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square" alt="XML">
-</p>
-
-### 🤖 Automação e Scripting
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell Script">
-</p>
-
-### ☕ Desenvolvimento aplicado e Integrações
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Swing-5382A1?style=flat-square&logo=openjdk&logoColor=white" alt="Java Swing">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Apache Maven">
-  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Apache Tomcat">
-  <img src="https://img.shields.io/badge/HTTP-005571?style=flat-square" alt="HTTP">
-  <img src="https://img.shields.io/badge/APIs-02569B?style=flat-square" alt="APIs">
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-02569B?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🧾 [CorretorSipat](https://github.com/MaxwellMarinhodaSilva/CorretorSipat)
+### 🧾 [Corretor SIPAT 1.0.1](https://github.com/MaxwellMarinhodaSilva/CorretorSipat)
 
-Aplicação desktop desenvolvida para **analisar e corrigir arquivos posicionais SIPAT**, preservando a primeira ocorrência de cada protocolo e removendo duplicidades posteriores com rastreabilidade.
+Aplicação desktop em Java 21 que analisa e corrige arquivos posicionais SIPAT, remove protocolos duplicados e recalcula controles com validação pós-gravação — sem alterar o arquivo original.
 
-O projeto mantém o arquivo original, recalcula os controles estruturais e valida novamente a saída após a gravação, reduzindo o risco de inconsistências no processamento.
+`Java 21` `Swing` `Maven` `FlatLaf` `JUnit 5` `jpackage`
 
-#### Principais recursos
+<details>
+<summary><strong>Ver principais recursos</strong></summary>
 
-* análise estrutural de arquivos SIPAT;
-* identificação e remoção controlada de protocolos duplicados;
-* recálculo de quantidades, soma financeira e sequenciais;
-* preservação do arquivo original;
-* validação independente após a gravação;
-* geração de SIP corrigido, relatório TXT, CSV e log;
-* histórico local de processamentos;
-* interface gráfica desktop com tema claro e escuro;
-* testes automatizados com dados sintéticos.
+- análise estrutural, dos indicadores e dos protocolos duplicados;
+- preservação da primeira ocorrência e remoção controlada das posteriores;
+- recálculo de quantidade, somatório de segurança, soma financeira e sequenciais;
+- geração de SIP corrigido, relatórios TXT/CSV e log técnico;
+- validação independente do arquivo após a gravação;
+- histórico local, tema claro/escuro e recursos de acessibilidade.
 
-**Tecnologias:** `Java 21` `Swing` `Maven` `FlatLaf` `JUnit 5` `jpackage`
+</details>
 
-<a href="https://github.com/MaxwellMarinhodaSilva/CorretorSipat">
-  <img src="https://img.shields.io/badge/Acessar-Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório CorretorSipat">
-</a>
+[![Acessar repositório](https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxwellMarinhodaSilva/CorretorSipat)
 
 ---
 
 ### 🔎 [ConsultaSeloDigital](https://github.com/MaxwellMarinhodaSilva/ConsultaSeloDigital)
 
-Aplicação desktop desenvolvida para **centralizar consultas de selos digitais de tribunais**, permitindo processamento individual e em lote por meio de uma interface gráfica.
+Aplicação desktop em Java 21 que centraliza consultas de selos digitais do TJPB, TJRN e TJPE e oferece abertura assistida das consultas do TJAL no portal oficial.
 
-O projeto aplica desenvolvimento de software diretamente à resolução de uma necessidade operacional, reunindo consulta de dados, processamento, histórico, importação, exportação e tratamento das informações retornadas por serviços externos.
+`Java 21` `Swing` `Java HTTP Client` `Jackson` `Apache POI` `PDFBox` `ZXing` `FlatLaf` `Maven`
 
-#### Principais recursos
+<details>
+<summary><strong>Ver principais recursos</strong></summary>
 
-* consultas individuais e em lote;
-* integração com serviços públicos de consulta;
-* processamento de respostas HTTP;
-* importação de arquivos TXT, CSV e XLSX;
-* histórico de consultas;
-* exportação de resultados em PDF e XLSX;
-* geração e tratamento de QR Code;
-* tratamento de erros;
-* interface gráfica desktop;
-* parsing e organização das informações consultadas.
+- consultas individuais e em lote;
+- importação por TXT, CSV e XLSX;
+- estratégias e parsers específicos por tribunal;
+- progresso, histórico, visualização de resultados e detalhes;
+- exportação em PDF e XLSX e geração de QR Code;
+- integração com serviços públicos de consulta.
 
-**Tecnologias:** `Java 21` `Swing` `Maven` `Java HTTP Client` `Jackson` `Apache POI` `PDFBox` `ZXing` `FlatLaf`
+</details>
 
-<a href="https://github.com/MaxwellMarinhodaSilva/ConsultaSeloDigital">
-  <img src="https://img.shields.io/badge/Acessar-Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório ConsultaSeloDigital">
-</a>
+[![Acessar repositório](https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxwellMarinhodaSilva/ConsultaSeloDigital)
 
 ---
 
 ### 🛠️ [IndicadorReal](https://github.com/MaxwellMarinhodaSilva/IndicadorReal)
 
-Aplicação desktop criada para **automatizar a análise e correção de informações em arquivos**, interpretando registros de erro em TXT ou texto informado diretamente pelo usuário e cruzando essas informações com dados estruturados em JSON.
+Aplicação desktop em Java 21 que interpreta registros de erro, localiza matrículas em arquivos JSON e corrige automaticamente o campo `TIPOENVIO`, preservando o arquivo de origem.
 
-A aplicação identifica as matrículas relacionadas aos erros, ajusta o campo `TIPOENVIO`, preserva o arquivo original e gera os artefatos resultantes da operação.
+`Java 21` `Swing` `Maven` `Jackson` `JSON` `Regex` `FlatLaf`
 
-#### Principais recursos
+<details>
+<summary><strong>Ver principais recursos</strong></summary>
 
-* interpretação de registros de erro;
-* leitura de TXT e texto informado pelo usuário;
-* processamento de JSON;
-* cruzamento de matrículas;
-* correção automatizada do campo `TIPOENVIO`;
-* preservação do arquivo original;
-* geração de novo JSON;
-* geração de relatório;
-* geração de log de execução.
+- entrada por arquivo TXT ou texto colado;
+- identificação de matrículas e valores por expressões regulares;
+- correspondência pelo campo `NUMERO_REGISTRO`;
+- atualização somente dos registros identificados;
+- geração de JSON corrigido, relatório TXT e log de execução;
+- interface com seleção de arquivos, arrastar e soltar, progresso e histórico.
 
-**Tecnologias:** `Java 21` `Swing` `Maven` `Jackson` `JSON` `Regex` `FlatLaf`
+</details>
 
-<a href="https://github.com/MaxwellMarinhodaSilva/IndicadorReal">
-  <img src="https://img.shields.io/badge/Acessar-Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório IndicadorReal">
-</a>
+[![Acessar repositório](https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxwellMarinhodaSilva/IndicadorReal)
 
 ---
 
 ### 🌡️ [Monitoramento de Temperatura e Umidade via SNMP](https://github.com/MaxwellMarinhodaSilva/arduino-snmp-zabbix-dht22)
 
-Projeto de monitoramento que integra **Arduino, sensor DHT22, rede Ethernet, protocolo SNMP e Zabbix** para disponibilizar informações de temperatura e umidade a uma plataforma de monitoramento.
+Projeto pessoal que integra Arduino, Ethernet Shield W5100, sensor DHT22, SNMP e Zabbix para disponibilizar leituras de temperatura e umidade.
 
-O projeto demonstra integração prática entre **hardware, redes, protocolo de gerenciamento e monitoramento de infraestrutura**.
+`Arduino` `C++` `SNMP` `Zabbix` `Ethernet W5100` `DHT22` `Agentuino`
 
-#### Principais recursos
+<details>
+<summary><strong>Ver principais recursos</strong></summary>
 
-* coleta periódica de temperatura;
-* coleta periódica de umidade;
-* armazenamento das leituras em memória;
-* implementação de agente SNMP;
-* disponibilização das informações por meio de OIDs personalizadas;
-* integração com Zabbix;
-* comunicação por meio de Ethernet Shield W5100.
+- leitura do sensor DHT22 a cada cinco segundos;
+- manutenção da última leitura válida em memória;
+- implementação de agente SNMP;
+- resposta a requisições `GET` do Zabbix;
+- disponibilização de temperatura e umidade por OIDs personalizadas.
 
-**Tecnologias:** `Arduino` `C++` `SNMP` `Zabbix` `Ethernet W5100` `DHT22` `Agentuino`
+</details>
 
-<a href="https://github.com/MaxwellMarinhodaSilva/arduino-snmp-zabbix-dht22">
-  <img src="https://img.shields.io/badge/Acessar-Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório Arduino SNMP Zabbix">
-</a>
+[![Acessar repositório](https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxwellMarinhodaSilva/arduino-snmp-zabbix-dht22)
 
 ---
 
 ## 💼 Experiência profissional
 
-### 🏢 Virtus Sistemas
+### Virtus Sistemas
 
-#### Suporte Técnico
+**Suporte Técnico** · `abr. de 2026 – atual`
 
-**abr. de 2026 – atual**
+Suporte especializado a soluções de software para automação de serviços notariais, registrais e de distribuição, com atuação em incidentes de produção, logs Java/Tomcat, bancos de dados SQL, arquivos XML/JSON/TXT, integrações, chamados, SLA e documentação técnica.
 
-Atuação em suporte técnico especializado a soluções de software voltadas à automação de serviços notariais, registrais e de distribuição, com foco em **estabilidade, continuidade operacional e resolução de incidentes em produção**.
+### TNS América Latina
 
-**Principais responsabilidades:**
+**Suporte Técnico Pleno** · `jan. de 2024 – jul. de 2025`  
+**Suporte Técnico Júnior** · `jul. de 2022 – jan. de 2024`
 
-* atendimento e suporte técnico a clientes e usuários;
-* investigação, diagnóstico e resolução de incidentes em produção;
-* análise de logs de aplicações Java/Tomcat;
-* consultas e correções em bancos de dados SQL;
-* validação e tratamento de arquivos XML, JSON e TXT;
-* apoio técnico a integrações com serviços externos;
-* acompanhamento de chamados e SLA;
-* documentação de falhas recorrentes e procedimentos técnicos.
+Atuação em Suporte Técnico N2/N3 e operações de TI, com diagnóstico e resolução de incidentes, troubleshooting, Service Desk/ITSM, acompanhamento de SLA, análise de problemas, documentação e colaboração com equipes internas e fornecedores.
 
----
+> A progressão de Júnior para Pleno marcou minha evolução profissional dentro da empresa.
 
-### 🏢 TNS América Latina
+### Rede Menor Preço de Supermercado
 
-#### Suporte Técnico Pleno
+**Técnico de Informática** · `jun. de 2015 – out. de 2019`
 
-**jan. de 2024 – jul. de 2025**
-
-#### Suporte Técnico Júnior
-
-**jul. de 2022 – jan. de 2024**
-
-Atuação em **Suporte Técnico N2/N3 e operações de TI**, com foco em diagnóstico e resolução de incidentes, continuidade operacional e atendimento de demandas técnicas.
-
-**Principais atividades:**
-
-* atendimento e resolução de incidentes;
-* troubleshooting de demandas técnicas;
-* gestão e acompanhamento de chamados;
-* atuação com Service Desk/ITSM;
-* acompanhamento de prioridades e SLA;
-* investigação e tratamento de problemas;
-* documentação técnica;
-* interação com equipes internas;
-* interface com fornecedores;
-* colaboração com outras áreas técnicas;
-* apoio à estabilidade e continuidade dos serviços.
-
-> A progressão de **Suporte Técnico Júnior para Suporte Técnico Pleno** representa parte importante da minha evolução profissional dentro da empresa.
-
----
-
-### 🏢 Rede Menor Preço de Supermercado
-
-#### Técnico de Informática
-
-**jun. de 2015 – out. de 2019**
-
-Responsável pelo suporte técnico e pela sustentação de ambientes de TI distribuídos entre **12 unidades**, atendendo aproximadamente **200 estações de trabalho e sistemas corporativos**.
-
-**Principais atividades:**
-
-* Suporte Técnico N2/N3;
-* sustentação de aproximadamente 200 estações de trabalho;
-* suporte técnico às 12 unidades da empresa;
-* atendimento aos usuários;
-* suporte a sistemas ERP;
-* suporte a WMS;
-* suporte a sistemas de frente de caixa/PDV;
-* diagnóstico e resolução de incidentes;
-* apoio à infraestrutura de TI;
-* interação com equipes técnicas;
-* implementação de melhorias operacionais.
-
----
+Suporte técnico e sustentação de ambientes distribuídos entre **12 unidades**, atendendo aproximadamente **200 estações de trabalho**, sistemas ERP, WMS e soluções de frente de caixa/PDV.
 
 <details>
-<summary><strong>📂 Experiências anteriores relacionadas à minha trajetória profissional</strong></summary>
+<summary><strong>📂 Ver experiências anteriores</strong></summary>
 
-<br>
+#### Qualitech Informática
 
-<h3>🏢 Qualitech Informática</h3>
+**Vendedor** · `mai. de 2014 – mai. de 2015`
 
-<strong>Vendedor | mai. de 2014 – mai. de 2015</strong>
+Comercialização de equipamentos e soluções de TI, auxiliando clientes na escolha de produtos adequados às suas necessidades.
 
-<p>
-Atuação na comercialização de equipamentos e soluções de Tecnologia da Informação, auxiliando clientes na identificação de produtos e soluções adequadas às suas necessidades.
-</p>
+#### Superbox Brasil Supermercados
 
-<hr>
+**Gerente Comercial** · `set. de 2010 – mar. de 2014`
 
-<h3>🏢 Superbox Brasil Supermercados</h3>
+Atuação nas áreas comercial e de TI, incluindo gestão de sistemas ERP, infraestrutura de redes e apoio a projetos e melhorias de processos.
 
-<strong>Gerente Comercial | set. de 2010 – mar. de 2014</strong>
+#### Carrefour Comércio e Indústria Ltda.
 
-<p>
-Atuação integrada às áreas comercial e de Tecnologia da Informação, incluindo gestão de sistemas ERP, infraestrutura de redes e apoio a projetos de TI e à melhoria de processos corporativos.
-</p>
+**Auxiliar de TI / Suporte Técnico** · `parte da trajetória entre 2005 e 2009`
 
-<hr>
-
-<h3>🏢 Carrefour Comércio e Indústria Ltda.</h3>
-
-<strong>Auxiliar de TI / Suporte Técnico | parte da trajetória entre 2005 e 2009</strong>
-
-<p>
-Atuação com suporte técnico a sistemas, equipamentos e soluções de ponto de venda, além de apoio à manutenção da infraestrutura e à resolução de incidentes.
-</p>
+Suporte a sistemas, equipamentos e soluções de ponto de venda, além de apoio à infraestrutura e à resolução de incidentes.
 
 </details>
 
-<br>
-
-📌 O histórico profissional completo, incluindo todos os cargos e períodos, está disponível no meu [LinkedIn](https://www.linkedin.com/in/maxwell-m-s/).
+> O histórico completo de cargos e períodos está disponível no [LinkedIn](https://www.linkedin.com/in/maxwell-m-s/).
 
 ---
 
-## 🎓 Formação acadêmica
+## 🎓 Formação e certificações
 
-### 🎓 Mestrado em Modelagem Matemática e Computacional
+### Formação acadêmica
 
-**Universidade Federal da Paraíba — UFPB**
-`2022 – 2024`
+| Curso | Instituição | Período |
+|:--|:--|:--:|
+| **Mestrado em Modelagem Matemática e Computacional** | Universidade Federal da Paraíba — UFPB | `2022 – 2024` |
+| **Bacharelado em Ciência da Computação** | Faculdade Internacional da Paraíba — FPB | `2018 – 2021` |
 
-### 🎓 Bacharelado em Ciência da Computação
+### Certificações e formação complementar
 
-**Faculdade Internacional da Paraíba — FPB**
-`2018 – 2021`
+<details>
+<summary><strong>🛡️ Cibersegurança</strong></summary>
 
----
+- **Fortinet Certified Associate in Cybersecurity** — Fortinet · `2025 – 2027`
+- **Fortinet Certified Fundamentals in Cybersecurity** — Fortinet · `2025 – 2027`
 
-## 🏅 Certificações e formação complementar
+</details>
 
-### 🛡️ Cibersegurança
+<details>
+<summary><strong>🎫 ITSM, monitoramento e observabilidade</strong></summary>
 
-* **Fortinet Certified Associate in Cybersecurity** — Fortinet
-  `2025 – 2027`
+- **Jira Service Management — ITSM** — Udemy · `2026`
+- **Introdução ao Splunk** — Udemy · `2026`
 
-* **Fortinet Certified Fundamentals in Cybersecurity** — Fortinet
-  `2025 – 2027`
+</details>
 
-### 🎫 ITSM e Service Management
+<details>
+<summary><strong>🐧 Linux, automação e bancos de dados</strong></summary>
 
-* **Jira Service Management — ITSM** — Udemy
-  `2026`
+- **Linux System Engineer** — LinkedIn Learning · `2024`
+- **Learning Linux Shell Scripting** — LinkedIn Learning · `2024`
+- **Shell Script** — Udemy
+- **Fundamentos em Linux** — WB
+- **Python** — Alfahelix
+- **SQL Essential** — LinkedIn Learning
 
-### 📊 Monitoramento e Observabilidade
-
-* **Introdução ao Splunk** — Udemy
-  `2026`
-
-### 🐧 Linux e Shell
-
-* **Linux System Engineer** — LinkedIn Learning
-  `2024`
-
-* **Learning Linux Shell Scripting** — LinkedIn Learning
-  `2024`
-
-* **Shell Script** — Udemy
-
-* **Fundamentos em Linux** — WB
-
-### 🐍 Automação e Programação
-
-* **Python** — Alfahelix
-
-### 🗄️ Bancos de Dados
-
-* **SQL Essential** — LinkedIn Learning
-
-> A formação complementar apresentada aqui foi selecionada por relevância para **Suporte Técnico, Infraestrutura, IT Operations, Linux, automação, bancos de dados, ITSM, monitoramento e segurança**.
+</details>
 
 ---
 
-## 📫 Contato
+## 📈 GitHub em números
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/maxwell-m-s/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Maxwell Marinho da Silva">
-</a>
-
-<a href="mailto:maxwellmarinho@hotmail.com">
-  <img src="https://img.shields.io/badge/E--mail-maxwellmarinho%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail de Maxwell Marinho da Silva">
-</a>
-
-<a href="https://github.com/MaxwellMarinhodaSilva?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos de Maxwell Marinho da Silva no GitHub">
-</a>
-
-<br><br>
-
-<strong>Suporte Técnico • Infraestrutura • IT Operations • Monitoramento • Automação</strong>
-
-<br><br>
-
-<strong>Maxwell Marinho da Silva</strong>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MaxwellMarinhodaSilva&show_icons=true&hide_border=true&bg_color=00000000&title_color=0A66C2&icon_color=0A66C2&text_color=6E7781&locale=pt-br" alt="Estatísticas públicas do GitHub de Maxwell Marinho da Silva">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMarinhodaSilva&layout=compact&hide_border=true&bg_color=00000000&title_color=0A66C2&text_color=6E7781&locale=pt-br" alt="Linguagens mais presentes nos repositórios públicos de Maxwell Marinho da Silva">
 
 </div>
+
+> As métricas acima são geradas dinamicamente a partir dos repositórios públicos do GitHub.
+
+---
+
+## 📫 Vamos conversar
+
+<div align="center">
+
+Se você quiser conversar sobre **Suporte Técnico, Infraestrutura, IT Operations, monitoramento ou automação**, estes são meus canais:
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxwell_Marinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwell-m-s/)
+[![E-mail](https://img.shields.io/badge/E--mail-maxwellmarinho%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:maxwellmarinho@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MaxwellMarinhodaSilva-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxwellMarinhodaSilva)
+
+<br><br>
+
+**Suporte Técnico · Infraestrutura · IT Operations · Monitoramento · Automação**
+
+<sub>Maxwell Marinho da Silva</sub>
+
+</div>
+
